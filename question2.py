@@ -1,1 +1,0 @@
-print("acad"+"view")
