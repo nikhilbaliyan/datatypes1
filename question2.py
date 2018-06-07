@@ -1,0 +1,1 @@
+print("acad"+"view")
